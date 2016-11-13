@@ -58,8 +58,8 @@ module.exports.connections = {
   ***************************************************************************/
   mongo: {
     adapter: 'sails-mongo',
-    host: 'aws-us-east-1-portal.19.dblayer.com',
-    port: 15896,
+    host: 'candidate.15.mongolayer.com',
+    port: 11204,
     user: 'root', //optional
     password: 'github123', //optional
     database: 'saveurplanet' //optional
